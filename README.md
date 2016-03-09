@@ -68,6 +68,8 @@ On **Windows**, type `gradlew.bat` instead of `./gradlew`.
 
 Note that this will *cache* the downloaded audio files in your home directory. (You could customize this using the `-g` command line option (see the [Gradle User Guide](https://docs.gradle.org/current/userguide/gradle_command_line.html) for details.)
 
+For Linux users, simply run the `download-all.sh` script.
+
 ### Alternative: direct download
 
 You can also download the audio data directly from one of the web remotes, such as <http://mary.dfki.de/download/pavoque-data/Recordings/>
